@@ -1,5 +1,8 @@
 # Gemini AI Chatbot
 
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Source-black?logo=github)](https://github.com/Divesh-Kshirsagar/react-gemini-chatbot)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen?logo=vercel)](https://react-gemini-chatbot-delta.vercel.app/)
+
 A simple React-based chatbot powered by Google's Gemini 2.0 Flash model. Built with Vite and styled with Bootstrap.
 
 ## Features
