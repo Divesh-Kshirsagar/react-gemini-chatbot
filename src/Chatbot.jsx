@@ -146,7 +146,17 @@ const Chatbot = () => {
             <i className="bi bi-robot me-2"></i>
             Gemini
           </span>
-          <div className="d-flex gap-2">
+          <div className="d-flex gap-2 align-items-center">
+            <a
+              href="https://github.com/Divesh-Kshirsagar/react-gemini-chatbot"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="View source on GitHub"
+              className="btn btn-sm text-white"
+              style={{ backgroundColor: 'transparent', border: 'none', padding: 0 }}
+            >
+              <i className="bi bi-github" style={{ fontSize: '1.5rem' }}></i>
+            </a>
             <button
               className="btn btn-sm text-white"
               onClick={handleClearChat}
